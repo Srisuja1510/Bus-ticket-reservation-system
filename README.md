@@ -3,7 +3,7 @@ A MySQL-based database project that manages bus details, passenger information, 
 Bus Reservation System.
 
 **Description**
-The Bus Reservation System is a MySQL database project that organizes bus journey details, passenger information, reservations, tickets, and cancellations. It was developed as a DBMS case study and is being continued as a SQL project for the Codegnan course.
+The Bus Reservation System is a MySQL database project that organizes bus journey details, passenger information, reservations, tickets, and cancellations.
 
 **Objectives**
 - Store bus, route, journey-date, fare, and seat-availability details.
